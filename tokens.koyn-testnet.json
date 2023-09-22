@@ -1,0 +1,30 @@
+[
+    {
+      "name": "KOY Network",
+      "symbol": "KOYN",
+      "contract": "eosio.token",
+      "precision": 4,
+      "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/koyn.png"
+    },
+    {
+      "name": "Kenyan Shilling",
+      "symbol": "KES",
+      "contract": "eosio.token",
+      "precision": 2,
+      "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/kes.png"
+    },
+    {
+      "name": "Ugandan Shilling",
+      "symbol": "UGX",
+      "contract": "eosio.token",
+      "precision": 2,
+      "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/ugx.png"
+    },
+    {
+      "name": "Tanzanian Shilling",
+      "symbol": "TZS",
+      "contract": "eosio.token",
+      "precision": 2,
+      "logo": "https://raw.githubusercontent.com/telosnetwork/token-list/master/logos/tzs.png"
+    }
+  ]
